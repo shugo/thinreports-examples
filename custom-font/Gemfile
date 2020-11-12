@@ -1,0 +1,4 @@
+source "https://rubygems.org"
+
+gem 'thinreports', git: 'https://github.com/shugo/thinreports-generator.git',
+  branch: "custom-font-2"
